@@ -8,7 +8,7 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
-    url: https://news.ycombinator.com
+    url: https://thevictorxx.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
