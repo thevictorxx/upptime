@@ -1,41 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 70,
-    "timeDay": 70,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 70,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 223,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 223,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "ThevictorXx",
     "url": "https://thevictorxx.com",
     "icon": "https://favicons.githubusercontent.com/thevictorxx.com",
@@ -46,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 612,
-    "timeWeek": 612,
-    "timeMonth": 612,
-    "timeYear": 612,
+    "time": 622,
+    "timeDay": 622,
+    "timeWeek": 622,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {}
   }
 ]
