@@ -3,10 +3,6 @@ owner: thevictorxx # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: ThevictorXx
     url: https://thevictorxx.com
 
