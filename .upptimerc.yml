@@ -20,7 +20,7 @@ status-website:
   introMessage: This is a test of this repository.
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
