@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/thevictorxx.com",
     "slug": "thevictor-xx",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.16%",
+    "uptimeDay": "60.67%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "96.16%",
     "time": 617,
-    "timeDay": 466,
-    "timeWeek": 655,
+    "timeDay": 0,
+    "timeWeek": 596,
     "timeMonth": 617,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2022-02-11": 0
+      "2022-02-12": 69,
+      "2022-02-11": 497
     }
   }
 ]
